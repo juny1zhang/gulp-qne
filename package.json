@@ -1,0 +1,36 @@
+{
+    "name": "gulp-qne",
+    "version": "0.1.1",
+    "description": "qiniu gulp plugin",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/juny1zhang/gulp-qne.git"
+    },
+    "keywords": [
+        "qiniu",
+        "gulp",
+        "gulp-qiniu",
+        "cdn"
+    ],
+    "files": [
+        "lib",
+        "index.js"
+    ],
+    "author": "mdemo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/juny1zhang/gulp-qne/issues"
+    },
+    "homepage": "https://github.com/juny1zhang/gulp-qne",
+    "dependencies": {
+        "async": "^0.9.0",
+        "gulp-util": "^3.0.4",
+        "merge": "^1.2.0",
+        "qn": "^1.0.1",
+        "through2": "^0.6.5"
+    }
+}

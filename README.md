@@ -1,2 +1,2 @@
-# gulp-qne
-upload to qiniu
+# gulp-qn
+ qiniu gulp plugin
