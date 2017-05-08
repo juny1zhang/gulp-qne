@@ -1,2 +1,2 @@
-# gulp-qn
+# gulp-qne
  qiniu gulp plugin
